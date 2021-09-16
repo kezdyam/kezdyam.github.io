@@ -5,3 +5,25 @@
 .centered {
     text-align: center;
 }
+
+body {
+    padding-left: 2em;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+h1, h2, h3 {
+    line-height: 1.2em;
+}
+
+body#portfolio img {
+    height: 20em;
+}
+
+body#about img {
+    height: 13em;
+}
+
+p {
+    max-width: 50em;
+}
