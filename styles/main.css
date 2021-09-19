@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@300&display=swap');
+
 :root {
     --vertical-space: 2rem;
     --horizontal-space: 3rem;
@@ -6,10 +8,12 @@
 body {
     font-size: 18px;
     line-height: 1.5em;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3 {
     line-height: 1.2em;
+    font-family: 'Raleway', sans-serif;
 }
 
 body#about img {
