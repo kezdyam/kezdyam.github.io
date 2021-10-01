@@ -129,6 +129,15 @@ body#portfolio ul#portfolioItems {
     }
 }
 
+/* @media and (min-width 411px) {
+    body {
+        display: grid;
+        grid-template-areas: "head  head"
+                             "nav   nav"
+                             "main  main"
+                             "foot  foot";
+} */
+
 body#portfolio ul#portfolioItems li img {
     max-width: 100%
 }
