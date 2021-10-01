@@ -56,6 +56,23 @@ p {
     max-width: 50em;
 }
 
+#sayingsButton {
+    background-color: var(--light-color);
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+#aFamousSaying {
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+    /* background-color: white; */
+    color: black;
+    padding: 30px;
+    margin: 30px;
+}
+
 body {
     display: grid;
     grid-template-areas: "head  head"
